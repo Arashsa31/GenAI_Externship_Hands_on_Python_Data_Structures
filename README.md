@@ -1,1 +1,1 @@
-# GenAI_Externship_Hands_on_Python_Data_Structures
+This assignment is designed to help you master Python's essential data structures: lists, dictionaries, and tuples. You will create and manipulate lists, explore dictionaries by adding and updating key-value pairs, and work with immutable tuples.
